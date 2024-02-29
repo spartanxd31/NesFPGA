@@ -1,28 +1,35 @@
 ## Members
-Henry Forsyth, Computer Engineering Student (2024)
-rhforsythjr@vt.edu
+Domenic Marcelli, Computer Engineering Student (2024)
+spartanxd31@vt.edu
 
 ## Mentor
 MENTOR NAME HERE
 
 ## Current Status
-IN PROGRESS
+UNDER REVIEW 
 
 ## Project Overview
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vehicula, odio eu dictum aliquet, enim elit tempor diam, quis volutpat mi eros ut nisi. Aliquam luctus orci eget accumsan porta. Proin sollicitudin ultricies lacus et varius. Pellentesque tempor vehicula tempus. Integer semper id lorem vehicula tristique. Suspendisse nec placerat libero, eget aliquet eros. Phasellus iaculis quis lorem in ultrices. Nunc lobortis odio at sem pretium dictum. Integer sed tellus quis lorem pretium posuere.
-
+I want to recreate the Nintendo Entertainment System's hardware using an FPGA in order to use hardware emulation to play games.
 ## Educational Value Added
 
-Vivamus dapibus iaculis dui. Nullam vitae arcu a nisi elementum semper eu eu velit. Suspendisse vel dictum lacus. Sed facilisis luctus consequat. Donec vulputate eu dolor in molestie. Maecenas pretium sem non tellus facilisis sollicitudin id ut nulla. In condimentum orci nisi, sagittis facilisis neque convallis eget. Duis ut sem cursus, placerat mi pellentesque, mollis eros. Integer efficitur blandit elit, sed egestas sem porta in. Mauris euismod nulla ac tellus tempus, eu egestas dui molestie. Proin faucibus enim quis consequat sodales. Pellentesque eleifend blandit augue et laoreet. Phasellus vel posuere nisi, ac aliquam arcu.
+During this project I will learn CPU Design, Audio Proccesing Unit Design, and Video and Graphics processing, grabbing memory from catridges etc. As well as 
+topics related to working with FPGA and FPGA software tools
 
 ## Tasks
 
 <!-- Your Text Here. You may work with your mentor on this later when they are assigned -->
+High levels tasks
+Learn about the NES CPU design -> Port that Design to an FPGA using System Verilog -> Intergrate with other pieces
+Learn about the NES APU design -> Port that Design to an FPGA using System Verilog -> Intergrate with other pieces
+Learn about the NES Video Process and Graphic design -> Port that Design to an FPGA using System Verilog -> Intergrate with other pieces
+Learn about the Input design -> Port that Design to an FPGA using System Verilog -> Intergrate with other pieces
+etc until done
 
 ## Design Decisions
 
 <!-- Your Text Here. You may work with your mentor on this later when they are assigned -->
+TBD -> What brand of FPGA (Intel or AMD) and which developer kit.
 
 ## Design Misc
 
@@ -31,18 +38,24 @@ Vivamus dapibus iaculis dui. Nullam vitae arcu a nisi elementum semper eu eu vel
 ## Steps for Documenting Your Design Process
 
 <!-- Your Text Here. You may work with your mentor on this later when they are assigned -->
+Find resources that relate to each part-> write thoughts -> commment code -> Keep engineering notebook
+github
 
 ## BOM + Component Cost
 
 <!-- Your Text Here. You may work with your mentor on this later when they are assigned -->
+TBD depends on the FPGA
 
 ## Timeline
 
 <!-- Your Text Here. You may work with your mentor on this later when they are assigned -->
+I would like to have the CPU and APU done by the end of Fall 2024 and if I still allowed in the amp lab during my grad school finish the project before I leave grad school
 
 ## Useful Links
 
 <!-- Your Text Here. You may work with your mentor on this later when they are assigned -->
+https://shareok.org/bitstream/handle/11244/302137/oksd_wong_HT_2018.pdf?sequence=1&isAllowed=y
+https://entropia.de/images/4/47/GPN13-Nintendo_Entertainment_System_on_FPGA.pdf
 
 ## Log
 
