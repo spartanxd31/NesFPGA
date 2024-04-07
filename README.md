@@ -6,7 +6,7 @@ spartanxd31@vt.edu
 MENTOR NAME HERE
 
 ## Current Status
-UNDER REVIEW 
+In Progress
 
 ## Project Overview
 
@@ -30,7 +30,7 @@ etc until done
 
 <!-- Your Text Here. You may work with your mentor on this later when they are assigned -->
 TBD -> What brand of FPGA (Intel or AMD) and which developer kit.
-
+Xlinx Zybo FPGA
 ## Design Misc
 
 <!-- Your Text Here. You may work with your mentor on this later when they are assigned -->
